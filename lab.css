@@ -1,0 +1,14 @@
+body {
+	background: #adfff8;
+	line-height:1;
+	color:#000000;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", Arial, Helvetica, sans-serif;
+	font-size:13px; 
+	font-weight:normal;
+}
+h1 {font-size:45px;}
+h2 {font-size:28px;}
+h3 {font-size:26px;}
+div {
+    text-align: center
+}
